@@ -1,2 +1,2 @@
 # New_Repo
-Creating my new repository
+Creating my first repository
